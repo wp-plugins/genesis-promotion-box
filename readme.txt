@@ -2,7 +2,7 @@
 Contributors: wpmuguru
 Tags: genesis, custom post type, promotion 
 Requires at least: 3.1
-Tested up to: 3.4.1
+Tested up to: 3.5
 Stable tag: trunk
 
 This plugin allows you to add a promotion box after a single post in Genesis.
